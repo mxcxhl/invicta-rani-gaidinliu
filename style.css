@@ -113,3 +113,26 @@ h1 {
     object-fit: cover;
     filter: grayscale(100%);
 }
+#timeline {
+    padding: 100px 20px;
+    text-align: center;
+    background: #11110f;
+    color: #eee9df;
+}
+
+#timeline h2 {
+    font-family: Georgia, serif;
+    margin-bottom: 40px;
+}
+
+.timeline {
+    max-width: 500px;
+    margin: auto;
+    text-align: left;
+}
+
+.timeline p {
+    margin: 15px 0;
+    padding-left: 10px;
+    border-left: 2px solid #eee9df;
+}
