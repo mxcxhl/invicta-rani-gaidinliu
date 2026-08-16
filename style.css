@@ -27,8 +27,8 @@ body {
 
 .hero-content {
     max-width: 900px;
+    margin-top: 60px;
 }
-
 .eyebrow {
     font-size: 13px;
     letter-spacing: 4px;
@@ -109,7 +109,7 @@ h1 {
     height: auto;
     border-radius: 50%;
     display: block;
-    margin: 0 auto 30px auto;
+    margin: 40px auto 30px auto;
     object-fit: cover;
     filter: grayscale(100%);
 }
