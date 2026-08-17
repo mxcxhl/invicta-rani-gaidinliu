@@ -1,4 +1,4 @@
-INVICTTA-Remembering the Forgotten
+INVICTA-Remembering the Forgotten
 
 About the Project:
 
